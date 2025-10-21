@@ -26,19 +26,15 @@
 ---
 
 ## 🧰 프로젝트 사용 툴
-- **Frontend:** Html, JavaScript, Css, Tymeleaf
-- **Backend:** Spring Boot, Java, Lombok, JSON
-- **Database:** MySQL, MyBatis  
+- **HTML Engine:** : Tymeleaf
+- **Frontend:** Html, JavaScript, Css
+- **Backend:** Spring Boot, Java
+- **Database:** MySQL
 - **Infra:** AWS EC2  
 - **Tool:** VsCode,IntelliJ IDEA
-- **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API
-- **기타:** Git, GitHub, Slack, Junit, PostMan
-
----
-
-## 🗂 ERD (Entity Relationship Diagram)
-<img width="5768" height="5368" alt="image" src="https://github.com/user-attachments/assets/74f75250-bc3b-4816-90f2-0f10bbca685b" />
-
+- **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API, Lombok, MyBatis
+- **기타:** Git, GitHub, Slack, PostMan
+- **테스트:** Junit5
 
 ---
 
