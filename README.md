@@ -26,13 +26,13 @@
 ---
 
 ## 🧰 프로젝트 사용 툴
-- **Frontend:** Html, JavaScript, Css, TymeLeaf
-- **Backend:** Spring Boot, Java  
+- **Frontend:** Html, JavaScript, Css, Tymeleaf
+- **Backend:** Spring Boot, Java, Lombok, JSON
 - **Database:** MySQL, MyBatis  
 - **Infra:** AWS EC2  
 - **Tool:** VsCode,IntelliJ IDEA
 - **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API
-- **기타:** GitHub, Slack  
+- **기타:** Git, GitHub, Slack, Junit, PostMan
 
 ---
 
