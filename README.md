@@ -42,8 +42,8 @@
 - **Infra:** AWS EC2  
 - **Tool:** VsCode,IntelliJ IDEA
 - **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API, Lombok, MyBatis
-- **기타:** Git, GitHub, Slack, PostMan
-- **테스트:** Junit5
+- **기타:** Git, GitHub, Slack, Postman
+- **테스트:** JUnit5
 
 ---
 
