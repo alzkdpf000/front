@@ -35,15 +35,17 @@
 ---
 
 ## 🧰 프로젝트 사용 툴
-- **HTML Engine:** Thymeleaf
-- **Frontend:** Html, JavaScript, Css
-- **Backend:** Spring Boot, Java
-- **Database:** MySQL
-- **Infra:** AWS EC2  
-- **Tool:** VsCode,IntelliJ IDEA
-- **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API, Lombok, MyBatis
-- **기타:** Git, GitHub, Slack, Postman
-- **테스트:** JUnit5
+| 구분           | 기술/도구 |
+|----------------|-----------|
+| **HTML Engine** | Thymeleaf |
+| **Frontend**    | HTML, JavaScript, CSS |
+| **Backend**     | Spring Boot, Java |
+| **Database**    | MySQL |
+| **Infra**       | AWS EC2 |
+| **Tool**        | VS Code, IntelliJ IDEA |
+| **API**         | Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API, Lombok, MyBatis |
+| **기타**        | Git, GitHub, Slack, Postman |
+| **테스트**      | JUnit5 |
 
 ---
 
