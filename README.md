@@ -41,7 +41,6 @@
 | **Frontend**    | HTML, JavaScript, CSS |
 | **Backend**     | Spring Boot, Java |
 | **Database**    | MySQL |
-| **Infra**       | AWS EC2 |
 | **Tool**        | VS Code, IntelliJ IDEA |
 | **API**         | Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API, Lombok, MyBatis |
 | **기타**        | Git, GitHub, Slack, Postman |
